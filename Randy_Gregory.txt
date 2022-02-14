@@ -1,6 +1,10 @@
-paragraph on introduction "We all neeed education specially at a young age, it doesn't only teach you maths, english or science but teaches you work ethic and drive is vitial if you want a job. but with the newly changing in teaching methodes you cant typically rilliy on your parents to teach you everything and when your not at the same pace as the other students its hard to catch up, that why you need software that allows you to learn and develop your school with focuased learning on your goals."
-List what has been asked of you
+paragraph on introduction "We all neeed education specially at a young age, it doesn't only teach you maths, english and science but teaches you work ethic and drive whichis vitial if you want a job. with the forever changing teaching methodes as well as what parents call new maths you cant typically reliy on your parents to teach you everythingwhen your not at the same pace as the other students its hard to catch up, that why you need software that allows you to learn and develop your school with focuased learning on your goals."
+List what has been asked of you (what we need to provide)
 list some varied interviews
 List what users are going to get from the new program
 Paragraph why you should make this problem a digitilized solution 
-little parapgh  
+little paragraph leading to the KPI's 
+list kpi's (eg membership, login page) and user acceptance
+list sub sytems (web interface, database, eg)
+paragraph on what FR and NFR are
+FR and NFR
