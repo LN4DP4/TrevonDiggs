@@ -1,4 +1,4 @@
-paragraph on introduction
+paragraph on introduction "We all neeed education specially at a young age, it doesn't only teach you maths, english or science but teaches you work ethic and drive is vitial if you want a job. but with the newly changing in teaching methodes you cant typically rilliy on your parents to teach you everything and when your not at the same pace as the other students its hard to catch up, that why you need software that allows you to learn and develop your school with focuased learning on your goals."
 List what has been asked of you
 list some varied interviews
 List what users are going to get from the new program
