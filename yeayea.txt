@@ -28,6 +28,8 @@ have better time manigment.
 The final techneuq that i have used would be common conventions, which are universal simularities between all websites such as the
 logo placement being in the top right as well as a commonly used site navigation which is very important to be similar to other
 websites as it eliminates the confusment of navigating through a website esppecially at a young age or old age. linking back to the 
-layout, the use of the grid layout is very commonly used therefore when people come across it they can understand what they are viewing
+layout, the use of the grid layout is very commonly used therefore when people come across it, they can understand what they are viewing more effietiently.
+
+
  
 
