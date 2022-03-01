@@ -1,0 +1,33 @@
+Effectivness of the design interface 
+* layout and white space
+* Visual hierachies
+* common conventions
+* size and scale
+* color and contrast
+* The Z pattern
+* The F pattern
+* Balance and symmetry
+* Alignment on screen
+* Proximity of elements 
+
+Whithin the design of this page we have used many techneques to improve the effectivness of the design interface. 
+First being the whitespace use which gives advantages such as more interacton to the website and in todays climate where
+you have social media sites like tiktok where everyone is in a hurry to browes from one website to the next, 
+white space can help by proventing distractions that slow visitors down. ANouther reason on why the use of white space is important
+is whith the homepage of the website, everyone knows that first impressions are at the upmost of importants, with white 
+space it gives the users an impression that GibJohn is a trust worthy, clean, modern proffetional site. i have also used 
+white space importantly, on the students page as the whitespace highlights the important feature of that page including the Cources, profile picture a
+and the student details.
+
+Anouther techneuq that i have used would have to be the layout i desided to use a hibrid of many layouts comiding them to make the perfect web page
+the first being The F layout used all of the login pages this gives the page an effective understanding of what the user must do
+to continue on the site. we have also used the grid layout for the students and tutors dashboards which allows for equal viewing for 
+all the information, it also makes the information easy to browes. The grid layout is good with comparing progress so that you can 
+have better time manigment. 
+
+The final techneuq that i have used would be common conventions, which are universal simularities between all websites such as the
+logo placement being in the top right as well as a commonly used site navigation which is very important to be similar to other
+websites as it eliminates the confusment of navigating through a website esppecially at a young age or old age. linking back to the 
+layout, the use of the grid layout is very commonly used therefore when people come across it they can understand what they are viewing
+ 
+
