@@ -13,7 +13,7 @@
 
 <nav class="navbar navbar-expand-sm grey"> <!-- Navigation Bar -->
   <div class="container-fluid">
-    <a class="navbar-brand" href="javascript:void(0)"> <!-- Logo -->
+    <a class="navbar-brand" href="/projects/website/TrevonDiggs/Website/Tutor_student.phpd"> <!-- Logo -->
         <img src="logo.png" alt="Company Logo" style="width:99px; height:60px"> 
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
@@ -25,16 +25,9 @@
           <a class="nav-link" href="javascript:void(0)">Contact Us</a>
         </li>
       </ul>
-      <form class="d-flex" method="get" action="/projects/website/TrevonDiggs/Website/Tutor_student.php">
-        <button class="btn btn-primary " type="submit">Login</button>
-      </form>
-      
     </div>
   </div>
 </nav>
 
-<div class="container-fluid mt-3">
-  
-</div>
 </body>
 </html>
