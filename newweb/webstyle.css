@@ -1,0 +1,31 @@
+.btn-primary {
+    color: #fff;
+    background-color: #1C6E8C;
+    border-color: #1C6E8C;
+}
+
+.btn-primary:hover, .btn-primary:active, .btn-primary:visited, .btn-primary:focus{
+    color: #fff;
+    background-color: #274156;
+    border-color: #274156;   
+}
+
+.grey{
+    background-color: #605856;
+}
+
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #1C6E8C;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+
+.nav-link:focus, .nav-link:hover{
+    color: #274156;
+}
+
+.body{
+    background-color: #D0CCD0;
+}
