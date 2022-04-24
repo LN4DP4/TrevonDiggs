@@ -1,0 +1,49 @@
+Name : Kellan Noel
+Age : 46
+Natinality : british
+Job : Tutor
+//questionnaire
+
+Name : Ever Lissa
+Age : 44
+Natinality : british
+Job : teacher
+//questionnaire
+
+
+Name : Kaety Nikki
+Age : 21
+Natinality : british
+Job : uni student
+//questionnaire
+
+
+Name : Abel Faithe
+Age : 39
+Natinality : british
+Job : programmer
+//questionnaire
+
+
+Name : Joseph Adaline
+Age : 23
+Natinality : british
+Job : programmer
+//questionnaire
+
+Q1
+name
+
+Q2
+age
+
+Q3
+natinality
+
+Q4
+Job
+
+Q5
+
+
+Q6
