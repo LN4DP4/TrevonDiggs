@@ -13,7 +13,7 @@
 
 <nav class="navbar navbar-expand-sm grey"> <!-- Navigation Bar -->
   <div class="container-fluid">
-    <a class="navbar-brand" href="/projects/website/TrevonDiggs/Website/Tutor_student.phpd"> <!-- Logo -->
+    <a class="navbar-brand" href="/projects/website/TrevonDiggs/Website/Tutor_student.php"> <!-- Logo -->
         <img src="logo.png" alt="Company Logo" style="width:99px; height:60px"> 
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
